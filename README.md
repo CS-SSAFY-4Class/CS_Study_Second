@@ -1,7 +1,7 @@
 # 💻2023 하반기 취뽀를 위한 하반기 CS Study💻
-<br>
 
 ## ❓ <b>ABOUT OUR STUDY</b>
+
 ### 🚩 <b>목표</b>
 <b>2023 하반기 job pair에서의 취뽀를 위한 면접 대비 CS 지식 부수기</b>
 
