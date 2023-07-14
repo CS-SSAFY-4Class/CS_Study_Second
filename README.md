@@ -1,1 +1,1 @@
-# CS_Study_Second
+# 취뽀를 위한 하반기 CS Study
