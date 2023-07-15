@@ -33,11 +33,13 @@
         - ex) 강아지는 동물이다.
 
 ### 연산자
-- 연산자는 명제를 연산하기 위한 기본적인 6가지 도구 
+- 연산자는 명제를 연산하기 위한 기본적인 6가지 도구
+  
 ![image](https://blog.kakaocdn.net/dn/cVzgQj/btqDpfmiIuA/Yam6sHXlGDdYb7qms6gst0/img.png)
 
 - 진리표 작성
     - 모든 경우를 보여줄 수 있는 표
+      
 ![image](https://velog.velcdn.com/images%2Fjoygoround%2Fpost%2F9c26acae-615b-4c1b-a32c-b102caa99484%2Fimage.png)
 
 <br/>
@@ -55,6 +57,7 @@
 - 복잡해 보이는 합성명제라도 간단한 명제로 바꿀 수 있다.   
    
 ![image](https://blog.kakaocdn.net/dn/cbzLgt/btqF9Ea2EI6/NVYrSKtfz6MmdUVyFx0bwk/img.png)
+
 ```
 (p-> q)^(p-> ~q)
 (~p▽q)^(~p▽~q) : 함축법칙
