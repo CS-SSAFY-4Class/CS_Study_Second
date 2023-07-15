@@ -52,7 +52,7 @@
 - 논리적 공리들을 만족시키는 논리합과 논리곱 및 부정의 연산이 정의된 대수 구조
 
 
-![image](https://www.electronics-tutorials.ws/boolean/boolean-algebra-simplification.html)
+![image](https://mblogthumb-phinf.pstatic.net/MjAyMzAyMDJfMTM0/MDAxNjc1MzM4OTg3MzIx.iKF_iYgRPCBPN5Hat6b2bEYXVQ6uGty-RIZTvptg5T0g.dGHflDk3FecNNFXIVFw4tyJuTZrZd9c4vOh1fyhjVNIg.PNG.brinson/%EB%B6%80%EC%9A%B8_%EB%8C%80%EC%88%98%EC%9D%98_%EC%A0%95%EB%A6%AC%EC%99%80_%EB%B2%95%EC%B9%99.png?type=w800)
 
 ### 부울 대수의 종류
 - 카르노 맵(Karnaugh Map)
