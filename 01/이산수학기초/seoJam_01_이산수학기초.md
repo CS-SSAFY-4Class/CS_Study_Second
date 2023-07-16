@@ -101,7 +101,7 @@
 - 논리적으로 일치한다
 - 같은 의미를 가진 더 쉬운 명제를 발견하는데 사용  
     ex) 2+2+2+2+2+2+2+2+2+2 와 2*10 은 동치이다
-- 동치법칙
+- 동치법칙  
 ![동치법칙](https://velog.velcdn.com/images%2Fja_an%2Fpost%2Ff5ad4c8e-9c19-49a5-b8bd-38211016d481%2Fchrome_61Akc3iJUi.png)  
 
 + 함축 법칙: p → q === ~p v q  
