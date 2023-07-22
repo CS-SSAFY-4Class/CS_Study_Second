@@ -38,7 +38,7 @@
     - 컴퓨터 프로그램과 전자 놀리 회로를 설계하는 데에 쓰이는 수학적 모델 (상태 기계)
     - 특정한 유한 오토마톤은 현재 상태로부터 가능한 전이 상태와, 이러한 전이를 유발하는 조건들의 집합
 
--결정적 유한 오토마타(Deterministic Finite Automata, DFA)
+- 결정적 유한 오토마타(Deterministic Finite Automata, DFA)
     - Q는 상태의 공집합이 아닌 유한 집합
     - Σ 는 입력 문자 (유한하며, 비어있지 않은 기호의 집합이다).
     - ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/3086070a07409fa7e760fea6e7c932b2a590b1ce) 는 상태 전이 함수 : ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/3d1a39532108e9c593fbc41b52c8caf29c26cd4d)
